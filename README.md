@@ -11,7 +11,7 @@
 2. Clone this repository:
 
     ```bash
-    $ git clone [https://github.com/edgeimpulse/firmware-nordic-nrf7002dk](https://github.com/Vhhoang166/firmware-nordic-nrf7002dk)
+    $ git clone https://github.com/Vhhoang166/firmware-nordic-nrf7002dk
     ```
 
 3. Build the application:
